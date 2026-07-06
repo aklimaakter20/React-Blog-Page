@@ -1,9 +1,14 @@
 import React from 'react'
+import BlogCard from './BlogCard'
 
-const Blogs = () => {
+const Blogs = ({blogs}) => {
   return (
     <div>
-      <h1>this is blog</h1>
+     <div>
+      {
+       blogs.map(blog => <BlogCard blog={blog} />)
+      }
+     </div>
     </div>
   )
 }

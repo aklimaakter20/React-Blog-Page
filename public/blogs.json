@@ -10,8 +10,8 @@
     "readingTime": "6 min read",
     "image": "https://i.ibb.co.com/MkJp1rWV/photo-1575252663512-b25714ec27f9.avif",
     "content": "React is one of the most popular JavaScript libraries for building user interfaces...",
-    "description": "Improve your JavaScript skills with these practical tips."
-
+    "description": "Improve your JavaScript skills with these practical tips.",
+      "views" : 254
   },
   {
     "id": 2,
@@ -24,6 +24,7 @@
     "image": "https://i.ibb.co.com/4RXks1c1/photo-1517981834318-5f56734fe518.avif",
     "description": "Improve your JavaScript skills with these practical tips.",
     "content": "JavaScript powers modern web development. Here are ten useful tips..."
+  
   },
   {
     "id": 3,

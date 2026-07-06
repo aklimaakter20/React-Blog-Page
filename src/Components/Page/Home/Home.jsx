@@ -28,7 +28,7 @@ const Home = () => {
 
      <div className='grid grid-cols-12 gap-4'>
       <div className='col-span-8'>
-        <Blogs />
+        <Blogs blogs={blogs} />
       </div>
       
       <div className='col-span-4'>
