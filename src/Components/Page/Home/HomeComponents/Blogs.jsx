@@ -2,11 +2,12 @@ import React from 'react'
 import BlogCard from './BlogCard'
 
 const Blogs = ({blogs}) => {
+  const sortBlogs = [...blogs].sort((a,b) => b.views - a.views)
   return (
     <div>
      <div>
       {
-       blogs.map(blog => <BlogCard blog={blog} />)
+       sortBlogs.map(blog => <BlogCard blog={blog} />)
       }
      </div>
     </div>

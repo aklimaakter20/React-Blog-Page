@@ -23,13 +23,14 @@ const BlogCard = ({ blog }) => {
               <p>Total Views : {blog.views}</p>
             </div>
             {/* Open the modal using document.getElementById('ID').showModal() method */}
-            <button
+           <div>
+             <button
               className="btn bg-[#FD5672] text-white"
-              onClick={() => document.getElementById("my_modal_1").showModal()}
+              onClick={() => document.getElementById(`modal_${blog.id}`).showModal()}
             >
               View More
             </button>
-            <dialog id="my_modal_1" className="modal">
+            <dialog id={`modal_${blog.id}`} className="modal">
               <div className="modal-box max-w-4xl h-fit">
                 <div>
                   <div className="flex gap-x-6">
@@ -65,6 +66,7 @@ const BlogCard = ({ blog }) => {
                 </div>
               </div>
             </dialog>{" "}
+           </div>
           </div>
         </div>
       </div>
