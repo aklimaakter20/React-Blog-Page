@@ -1,0 +1,210 @@
+
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "slug": "getting-started-with-react",
+    "categoryId": 1,
+    "author": "John Smith",
+    "date": "2026-07-01",
+    "readingTime": "6 min read",
+    "image": "https://i.ibb.co.com/MkJp1rWV/photo-1575252663512-b25714ec27f9.avif",
+    "content": "React is one of the most popular JavaScript libraries for building user interfaces...",
+    "description": "Improve your JavaScript skills with these practical tips."
+
+  },
+  {
+    "id": 2,
+    "title": "10 JavaScript Tips Every Developer Should Know",
+    "slug": "javascript-tips",
+    "categoryId": 2,
+    "author": "Sarah Johnson",
+    "date": "2026-06-28",
+    "readingTime": "8 min read",
+    "image": "https://i.ibb.co.com/4RXks1c1/photo-1517981834318-5f56734fe518.avif",
+    "description": "Improve your JavaScript skills with these practical tips.",
+    "content": "JavaScript powers modern web development. Here are ten useful tips..."
+  },
+  {
+    "id": 3,
+    "title": "Modern UI Design Trends in 2026",
+    "slug": "modern-ui-design-trends",
+    "categoryId": 3,
+    "author": "Emily Brown",
+    "date": "2026-06-25",
+    "readingTime": "5 min read",
+    "image": "https://i.ibb.co.com/KjDZJTsz/photo-1611142288262-3bb8f5fc45d7.avif",
+    "description": "Discover the latest UI design trends shaping digital products.",
+    "content": "Minimalism, glassmorphism, and AI-assisted design are leading trends..."
+  },
+  {
+    "id": 4,
+    "title": "Top 8 AI Tools for Developers",
+    "slug": "top-ai-tools",
+    "categoryId": 6,
+    "author": "Michael Lee",
+    "date": "2026-06-22",
+    "readingTime": "7 min read",
+    "image": "https://i.ibb.co.com/b5ZzGMw4/photo-1429087969512-1e85aab2683d.avif",
+    "description": "Explore AI tools that boost developer productivity.",
+    "content": "Artificial Intelligence is changing the way developers write code..."
+  },
+
+  {
+    "id": 5,
+    "title": "How to Prepare for a Frontend Interview",
+    "slug": "frontend-interview-guide",
+    "categoryId": 5,
+    "author": "David Wilson",
+    "date": "2026-06-20",
+    "readingTime": "9 min read",
+    "image": "https://i.ibb.co.com/MkJp1rWV/photo-1575252663512-b25714ec27f9.avif",
+    "description": "A complete roadmap for frontend developer interviews.",
+    "content": "Frontend interviews often cover HTML, CSS, JavaScript, React, and system design..."
+  },
+  {
+    "id": 6,
+    "title": "Understanding Next.js App Router",
+    "slug": "nextjs-app-router",
+    "categoryId": 1,
+    "author": "Sophia Davis",
+    "date": "2026-06-18",
+    "readingTime": "10 min read",
+    "image": "https://i.ibb.co.com/4RXks1c1/photo-1517981834318-5f56734fe518.avif",
+    "description": "Everything you need to know about the Next.js App Router.",
+    "content": "The App Router introduces a new way of building Next.js applications..."
+  },
+  
+  {
+    "id": 7,
+    "title": "Getting Started with React",
+    "slug": "getting-started-with-react",
+    "categoryId": 1,
+    "author": "John Smith",
+    "date": "2026-07-01",
+    "readingTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800",
+    "excerpt": "Learn the fundamentals of React, components, props, and state management.",
+    "content": "React is a JavaScript library for building user interfaces. It allows developers to create reusable components and efficiently update the DOM.",
+      "description": "Everything you need to know about the Next.js App Router."
+
+  },
+  {
+    "id": 8,
+    "title": "Mastering Tailwind CSS",
+    "slug": "mastering-tailwind-css",
+    "categoryId": 2,
+    "author": "Sarah Johnson",
+    "date": "2026-07-02",
+    "readingTime": "7 min read",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800",
+    "excerpt": "Discover how Tailwind CSS speeds up modern web development.",
+    "content": "Tailwind CSS is a utility-first CSS framework that helps developers build responsive interfaces quickly.",
+    "description": "Everything you need to know about the Next.js App Router."
+
+  },
+  {
+    "id": 9,
+    "title": "Why Learn TypeScript?",
+    "slug": "why-learn-typescript",
+    "categoryId": 3,
+    "author": "David Lee",
+    "date": "2026-07-03",
+    "readingTime": "8 min read",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800",
+    "excerpt": "Understand why TypeScript has become the standard for large-scale applications.",
+    "content": "TypeScript adds static typing to JavaScript, making applications more reliable and easier to maintain.",
+    "description": "Everything you need to know about the Next.js App Router."
+
+  },
+  {
+    "id": 10,
+    "title": "Next.js Routing Explained",
+    "slug": "nextjs-routing-explained",
+    "categoryId": 1,
+    "author": "Emily Davis",
+    "date": "2026-07-04",
+    "readingTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+    "excerpt": "Learn file-based routing and dynamic routes in Next.js.",
+    "content": "Next.js provides an intuitive file-based routing system that simplifies navigation in web applications.",
+    "description": "Everything you need to know about the Next.js App Router."
+
+  },
+  {
+    "id": 11,
+    "title": "JavaScript ES6 Features",
+    "slug": "javascript-es6-features",
+    "categoryId": 4,
+    "author": "Michael Brown",
+    "date": "2026-07-05",
+    "readingTime": "9 min read",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=800",
+    "excerpt": "Explore the most useful ES6 features every developer should know.",
+    "content": "ES6 introduced arrow functions, template literals, destructuring, spread operators, and much more.",
+    "description": "Everything you need to know about the Next.js App Router."
+
+  },
+  {
+    "id": 12,
+    "title": "Responsive Web Design Tips",
+    "slug": "responsive-web-design-tips",
+    "categoryId": 2,
+    "author": "Sophia Wilson",
+    "date": "2026-07-06",
+    "readingTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
+    "excerpt": "Create websites that look great on every screen size.",
+    "content": "Responsive design uses flexible layouts, media queries, and scalable images to support all devices."
+  },
+  {
+    "id": 13,
+    "title": "React Hooks Made Simple",
+    "slug": "react-hooks-made-simple",
+    "categoryId": 1,
+    "author": "Daniel Martin",
+    "date": "2026-07-07",
+    "readingTime": "7 min read",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800",
+    "excerpt": "Understand useState, useEffect, and custom hooks with practical examples.",
+    "content": "Hooks let developers use state and lifecycle features in functional components."
+  },
+  {
+    "id": 14,
+    "title": "Top VS Code Extensions for Developers",
+    "slug": "top-vscode-extensions",
+    "categoryId": 5,
+    "author": "Olivia Thomas",
+    "date": "2026-07-08",
+    "readingTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800",
+    "excerpt": "Boost your productivity with these must-have VS Code extensions.",
+    "content": "Extensions like Prettier, ESLint, GitLens, and Tailwind CSS IntelliSense improve development speed."
+  },
+  {
+    "id": 15,
+    "title": "Git & GitHub for Beginners",
+    "slug": "git-github-for-beginners",
+    "categoryId": 4,
+    "author": "James Anderson",
+    "date": "2026-07-09",
+    "readingTime": "8 min read",
+    "image": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=800",
+    "excerpt": "Learn version control using Git and collaborate with GitHub.",
+    "content": "Git helps developers track changes, while GitHub enables collaboration and code hosting."
+  },
+  {
+    "id": 16,
+    "title": "Deploy Your Website for Free",
+    "slug": "deploy-your-website-for-free",
+    "categoryId": 5,
+    "author": "Emma Taylor",
+    "date": "2026-07-10",
+    "readingTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
+    "excerpt": "Deploy React or Next.js projects easily using modern hosting platforms.",
+    "content": "Platforms like Vercel and Netlify make deployment simple with Git integration and automatic builds."
+  }
+
+]
+

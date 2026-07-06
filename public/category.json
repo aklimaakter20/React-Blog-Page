@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Web Development",
+    "slug": "web-development"
+  },
+  {
+    "id": 2,
+    "name": "Programming",
+    "slug": "programming"
+  },
+  {
+    "id": 3,
+    "name": "UI/UX Design",
+    "slug": "ui-ux-design"
+  },
+  {
+    "id": 4,
+    "name": "Technology",
+    "slug": "technology"
+  },
+  {
+    "id": 5,
+    "name": "Career",
+    "slug": "career"
+  },
+  {
+    "id": 6,
+    "name": "Artificial Intelligence",
+    "slug": "artificial-intelligence"
+  }
+]
